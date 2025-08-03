@@ -12,8 +12,19 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Problem 1.vi" Type="VI" URL="../Problem 1/Problem 1.vi"/>
-		<Item Name="Problem 2.vi" Type="VI" URL="../Problem 2/Problem 2.vi"/>
+		<Item Name="Problem 1 " Type="Folder">
+			<Item Name="Problem 1.vi" Type="VI" URL="../Problem 1/Problem 1.vi"/>
+		</Item>
+		<Item Name="Problem 2" Type="Folder">
+			<Item Name="Problem 2.vi" Type="VI" URL="../Problem 2/Problem 2.vi"/>
+		</Item>
+		<Item Name="Problem 3" Type="Folder">
+			<Item Name="Problem 3.vi" Type="VI" URL="../Problem 3/Problem 3.vi"/>
+		</Item>
+		<Item Name="Problem 4" Type="Folder">
+			<Item Name="Palindrome Checker.vi" Type="VI" URL="../Problem 4/Palindrome Checker.vi"/>
+			<Item Name="Problem 4.vi" Type="VI" URL="../Problem 4/Problem 4.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
