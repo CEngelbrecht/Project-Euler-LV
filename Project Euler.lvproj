@@ -25,6 +25,9 @@
 			<Item Name="Palindrome Checker.vi" Type="VI" URL="../Problem 4/Palindrome Checker.vi"/>
 			<Item Name="Problem 4.vi" Type="VI" URL="../Problem 4/Problem 4.vi"/>
 		</Item>
+		<Item Name="Problem 5" Type="Folder">
+			<Item Name="Problem 5.vi" Type="VI" URL="../Problem 5/Problem 5.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
