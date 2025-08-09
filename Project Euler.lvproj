@@ -34,6 +34,9 @@
 		<Item Name="Problem 7" Type="Folder">
 			<Item Name="Problem 7.vi" Type="VI" URL="../Problem 7/Problem 7.vi"/>
 		</Item>
+		<Item Name="Problem 8" Type="Folder">
+			<Item Name="Problem 8.vi" Type="VI" URL="../Problem 8/Problem 8.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
