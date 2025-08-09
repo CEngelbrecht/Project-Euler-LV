@@ -28,6 +28,12 @@
 		<Item Name="Problem 5" Type="Folder">
 			<Item Name="Problem 5.vi" Type="VI" URL="../Problem 5/Problem 5.vi"/>
 		</Item>
+		<Item Name="Problem 6" Type="Folder">
+			<Item Name="Problem 6.vi" Type="VI" URL="../Problem 6/Problem 6.vi"/>
+		</Item>
+		<Item Name="Problem 7" Type="Folder">
+			<Item Name="Problem 7.vi" Type="VI" URL="../Problem 7/Problem 7.vi"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
